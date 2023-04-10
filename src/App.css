@@ -1,0 +1,38 @@
+h1 {
+    --font-size: 2rem;
+    --typography-spacing-vertical: 1rem;
+  }
+  
+  h2 {
+    --font-size: 1.75rem;
+    --typography-spacing-vertical: 1rem;
+  }
+  
+  h3 {
+    --font-size: 1.5rem;
+    --typography-spacing-vertical: 1rem;
+  }
+  
+  h4 {
+    --font-size: 1.25rem;
+    --typography-spacing-vertical: 1rem;
+  }
+  
+  h5 {
+    --font-size: 1.125rem;
+    --typography-spacing-vertical: 1rem;
+  }
+
+.underlined {
+    text-decoration: underline;
+}
+
+.post {
+    padding: 1rem;
+}
+
+.toc-element {
+    vertical-align: top;
+    text-align: left;
+    min-width: 15rem;
+}
