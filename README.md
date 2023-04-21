@@ -7,3 +7,5 @@ NOTE: now we **can** add content in Hygraph (and someone has to to that!)
 The prototype is here: https://proto-hessdalen.fred.technology/
 
 Note: you have to choose something to get a page! and some topics has no content!
+
+Bug: changing language do NOT show pictures - should but don't!?
